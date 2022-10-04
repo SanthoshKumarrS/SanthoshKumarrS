@@ -1,13 +1,12 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=3%2ffBfp6o&id=AC7F8C178308D3519AC208A0B2918124690DB75B&thid=OIP.3_fBfp6oq3cQ-H4-fWsqdQHaEK&mediaurl=https%3a%2f%2fmedia1.giphy.com%2fmedia%2f4TtTVTmBoXp8txRU0C%2fgiphy.gif&exph=270&expw=480&q=Machine+Learning+cool+gif&simid=608015022823973180&FORM=IRPRST&ck=17A7890F4849B519C11BB32A45207589&selectedIndex=22&ajaxhist=0&ajaxserp=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Santhosh Kumar</h1>
 <h3 align="center">An Aspiring Machine Learning Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=LEH5tUEQ&id=FDF72191A5590ED04408A310CF78557E53D10249&thid=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f926537%2fscreenshots%2f4502924%2fpython-2.gif&exph=600&expw=800&q=coding+images+gif&simid=608038589309419185&FORM=IRPRST&ck=06FE3A8CFFC3DCCE49126E51DF39FEB6&selectedIndex=107&ajaxhist=0&ajaxserp=0"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=18santhossshhh&label=Profile%20views&color=0e75b6&style=flat" alt="18santhossshhh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/santhoscheeku77" target="blank"><img src="https://img.shields.io/twitter/follow/santhoscheeku77?logo=twitter&style=for-the-badge" alt="santhoscheeku77" /></a> </p>
 
-- 🔭 I’m currently Learning & working on **Sklearn , Tensorflow**
+- 🔭 I’m currently working on **Sklearn , Tensorflow**
 
 - 🌱 I’m currently learning **Machine Learning**
 
