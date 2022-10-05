@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Santhosh Kumar</h1>
-<h3 align="center">An Aspiring Machine Learning Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Santhosh Kumar
+======================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=18santhossshhh&label=Profile%20views&color=0e75b6&style=flat" alt="18santhossshhh" /> </p>
+Machine Learning Enthusiast
+---------------------------
 
-<p align="left"> <a href="https://twitter.com/santhoscheeku77" target="blank"><img src="https://img.shields.io/twitter/follow/santhoscheeku77?logo=twitter&style=for-the-badge" alt="santhoscheeku77" /></a> </p>
+I've been learning coding for 1.5 years after switching careers, I started with Python ,But have found really found a passion for Machine Learning
 
-- 🔭 I’m currently working on **Sklearn , Tensorflow**
+* 🌍  I'm based in Tiruppur
+* 🖥️  See my portfolio at [Link Tree](http://linktr.ee/santhosh___kumar)
+* ✉️  You can contact me at [santhoscheeku777@gmail.com](mailto:santhoscheeku777@gmail.com)
+* 🧠  I'm learning Machine Learning
+* 🤝  I'm open to collaborating on Data science projects
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **Machine Learning and Opensource projects**
-
-- 💬 Ask me about **Python and Data Analysis**
-
-- 📫 How to reach me **santhoscheeku777@gmail.com**
+<a href="https://www.twitter.com/Santhoscheeku77" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Santhoscheeku77?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+/></a><a href="https://www.github.com/18SanthossshhH" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/18SanthossshhH?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
