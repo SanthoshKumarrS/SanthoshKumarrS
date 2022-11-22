@@ -12,14 +12,14 @@ I've been learning coding for 1.5 years after switching careers, I started with 
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Data science projects
 
-<a href="https://www.twitter.com/Santhoscheeku77" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/SanthoshKumarS_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SanthoshKumarS_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a><a href="https://www.github.com/18SanthossshhH" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.github.com/SanthoshKumarS_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/18SanthossshhH?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@SanthoshKumarS_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santhoscheeku77" height="30" width="40" /></a>
+<a href="https://twitter.com/@SanthoshKumarS_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SanthoshKumarS_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santhosh-kumar-521034165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh-kumar-521034165" height="30" width="40" /></a>
 <a href="https://kaggle.com/santhossshhh13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="santhossshhh13" height="30" width="40" /></a>
 <a href="https://medium.com/@santhosh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@santhosh_" height="30" width="40" /></a>
@@ -32,10 +32,10 @@ src="https://img.shields.io/github/followers/18SanthossshhH?logo=github&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/18SanthossshhH"><img src="https://github-readme-stats.vercel.app/api?username=18SanthossshhH&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="18SanthossshhH's GitHub stats" /></a>
+<a href="http://www.github.com/SanthoshKumarrS"><img src="https://github-readme-stats.vercel.app/api?username=SanthoshKumarrS&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="18SanthossshhH's GitHub stats" /></a>
 
-<a href="http://www.github.com/18SanthossshhH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=18SanthossshhH&stroke=3382ed&background=000000&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<a href="http://www.github.com/SanthoshKumarrS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshKumarrS&stroke=3382ed&background=000000&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/18SanthossshhH"><img src="https://activity-graph.herokuapp.com/graph?username=18SanthossshhH&bg_color=000000&color=3382ed&line=3382ed&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/SanthoshKumarrS"><img src="https://activity-graph.herokuapp.com/graph?username=SanthoshKumarrS&bg_color=000000&color=3382ed&line=3382ed&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/18SanthossshhH" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18SanthossshhH&langs_count=10&title_color=f97316&text_color=3382ed&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/SanthoshKumarrS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumarrS&langs_count=10&title_color=f97316&text_color=3382ed&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
