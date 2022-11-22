@@ -13,7 +13,7 @@ I've been learning coding for 1.5 years after switching careers, I started with 
 * 🤝  I'm open to collaborating on Data science projects
 
 <a href="https://www.twitter.com/Santhoscheeku77" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Santhoscheeku77?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/SanthoshKumarS_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a><a href="https://www.github.com/18SanthossshhH" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/18SanthossshhH?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
