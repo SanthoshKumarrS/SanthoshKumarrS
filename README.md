@@ -14,8 +14,8 @@ I've been learning coding for 1.5 years after switching careers, I started with 
 
 <a href="https://www.twitter.com/SanthoshKumarS_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SanthoshKumarS_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a><a href="https://www.github.com/SanthoshKumarS_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/18SanthossshhH?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+/></a><a href="https://www.github.com/SanthoshKumarrS" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SanthoshKumarrS?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
