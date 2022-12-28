@@ -3,6 +3,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Machine Learning Enthusiast
 ---------------------------
+<br/>
+<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on two projects involved in **NLP and Machine Learning**
+- 🤝 &nbsp; Looking to collaborate on ML projects or hackathons? Ping me in Linkedin
+- 🌱 &nbsp; I’m currently learning ML Algorithms
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RahulM264?tab=repositories)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-m-7bb817178/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZvBYsLU9BHJjBOhcsEeYX9kwK88jvtvx/view?usp=sharing)
+- 📚 &nbsp; When I am free, I watch anime and read fiction novels. 
+
 
 I've been learning coding for 1.5 years after switching careers, I started with Python ,But have found really found a passion for Machine Learning
 
