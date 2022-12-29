@@ -11,9 +11,8 @@ Machine Learning Enthusiast
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Omdena's Serbia chapter**
-- 🤝 &nbsp; Looking to collaborate on ML projects or hackathons? Ping me in Gmail / Twitter / Linkedin
+- 🤝 &nbsp; Looking to collaborate on ML projects or hackathons? Ping me in Gmail / Twitter / [LinkedIn](https://www.linkedin.com/in/santhosh-kumar-521034165/)
 - 🌱 &nbsp; I’m currently learning ML Algorithms
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]((https://github.com/SanthoshKumarrS?tab=repositories))
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/santhosh-kumar-521034165/)
 - 🖥️ &nbsp; See my portfolio at [Link Tree](http://linktr.ee/santhosh___kumar)
 - 🌍 &nbsp; I'm based in Tiruppur,India
