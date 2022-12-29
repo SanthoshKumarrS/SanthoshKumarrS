@@ -11,12 +11,10 @@ Machine Learning Enthusiast
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Omdena's Serbia chapter**
-- 🤝 &nbsp; Looking to collaborate on ML projects or hackathons? Ping me in [Gmail](mailto:santhoscheeku777@gmail.com) / Twitter / [LinkedIn](https://www.linkedin.com/in/santhosh-kumar-521034165/)
+- 🤝 &nbsp; Looking to collaborate on ML projects or hackathons? Ping me in [Gmail](mailto:santhoscheeku777@gmail.com) /  [Twitter](https://twitter.com/SanthoshKumarS_) / [LinkedIn](https://www.linkedin.com/in/santhosh-kumar-521034165/)
 - 🌱 &nbsp; I’m currently learning ML Algorithms
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/santhosh-kumar-521034165/)
 - 🖥️ &nbsp; See my portfolio at [Link Tree](http://linktr.ee/santhosh___kumar)
 - 🌍 &nbsp; I'm based in Tiruppur,India
-- 📧 &nbsp; You can contact me at [santhoscheeku777@gmail.com](mailto:santhoscheeku777@gmail.com)
 
 <a href="https://www.twitter.com/SanthoshKumarS_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SanthoshKumarS_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
