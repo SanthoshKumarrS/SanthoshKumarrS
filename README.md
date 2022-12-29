@@ -10,22 +10,14 @@ Machine Learning Enthusiast
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on two projects involved in **NLP and Machine Learning**
-- 🤝 &nbsp; Looking to collaborate on ML projects or hackathons? Ping me in Linkedin
+- 🔭 &nbsp; I’m currently working on **Omdena's Serbia chapter**
+- 🤝 &nbsp; Looking to collaborate on ML projects or hackathons? Ping me in Linkedin / Twitter
 - 🌱 &nbsp; I’m currently learning ML Algorithms
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RahulM264?tab=repositories)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-m-7bb817178/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZvBYsLU9BHJjBOhcsEeYX9kwK88jvtvx/view?usp=sharing)
-- 📚 &nbsp; When I am free, I watch anime and read fiction novels. 
-
-
-I've been learning coding for 1.5 years after switching careers, I started with Python ,But have found really found a passion for Machine Learning
-
-* 🌍  I'm based in Tiruppur
-* 🖥️  See my portfolio at [Link Tree](http://linktr.ee/santhosh___kumar)
-* ✉️  You can contact me at [santhoscheeku777@gmail.com](mailto:santhoscheeku777@gmail.com)
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on Data science projects
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/RahulM264?tab=repositories](https://github.com/SanthoshKumarrS?tab=repositories))
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/santhosh-kumar-521034165/)
+- 🖥️ &nbsp; See my portfolio at [Link Tree](http://linktr.ee/santhosh___kumar)
+- 🌍 &nbsp; I'm based in Tiruppur,India
+- 📧 &nbsp; You can contact me at [santhoscheeku777@gmail.com](mailto:santhoscheeku777@gmail.com)
 
 <a href="https://www.twitter.com/SanthoshKumarS_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SanthoshKumarS_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
