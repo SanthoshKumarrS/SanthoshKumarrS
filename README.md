@@ -1,7 +1,12 @@
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:00BFFF&height=200&section=header&text=Hi%2C%20I'm%20Santhosh%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Building%20Cool%20Stuff&descAlignY=55&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:00BFFF&height=200&section=header&text=Hi%2C%20I'm%20Santhosh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Building%20Cool%20Stuff&descAlignY=55&descSize=18" alt="header" />
 </p>
+
+<!-- Waving Hand Animation -->
+<h1 align="center">
+  Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="waving hand" />
+</h1>
 
 <!-- Animated Typing Intro -->
 <p align="center">
