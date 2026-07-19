@@ -28,7 +28,12 @@
 
 ---
 
+<!-- Neon line divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
 ## 🧑‍💻 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
 ```python
 class Santhosh:
@@ -49,13 +54,18 @@ Santhosh().say_hi()
 - 💬 Ask me about **Python, scikit-learn, Streamlit**
 - ⚡ Fun fact: I believe every gap in a commit streak is just a plot twist 😄
 
+<br clear="right" />
+
+<!-- Neon line divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / ML & Deep Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=8" alt="AI/ML Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=8" alt="AI/ML Stack" />
 </p>
 
 <p align="center">
@@ -71,7 +81,7 @@ Santhosh().say_hi()
 
 ### ⚙️ MLOps & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions&theme=dark&perline=8" alt="MLOps Stack" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark&perline=8" alt="MLOps Stack" />
 </p>
 
 <p align="center">
@@ -84,7 +94,7 @@ Santhosh().say_hi()
 
 ### 🌐 Web & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,git,github,vscode,linux,bash&theme=dark&perline=8" alt="Web Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github,vscode,linux&theme=dark&perline=8" alt="Web Stack" />
 </p>
 
 ### 🧠 Topics I Work With
@@ -120,13 +130,8 @@ Santhosh().say_hi()
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanthoshKumarrS&theme=tokyonight" alt="Repos per Language" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanthoshKumarrS&theme=tokyonight" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SanthoshKumarrS&theme=tokyonight" alt="Stats" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SanthoshKumarrS&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanthoshKumarrS&theme=tokyonight" alt="Top Languages by Commit" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SanthoshKumarrS&theme=tokyonight&utcOffset=5.5" alt="Commits by Time of Day (UTC +5.30)" />
 </p>
 
 <!-- Streak Stats -->
