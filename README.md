@@ -28,9 +28,6 @@
 
 ---
 
-<!-- Neon line divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
 ## 🧑‍💻 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
@@ -39,7 +36,8 @@
 class Santhosh:
     def __init__(self):
         self.role       = "AI/ML Enthusiast 🤖"
-        self.learning   = ["Machine Learning", "Deep Learning", "LLMs", "MLOps"]
+        self.learning   = ["Machine Learning", "Deep Learning",
+                                               "LLMs", "MLOps"]
         self.building   = "Cool stuff, one commit at a time 🚀"
         self.status     = "Open to opportunities 💼"
 
@@ -49,15 +47,12 @@ class Santhosh:
 Santhosh().say_hi()
 ```
 
-- 🔭 Currently working on **ML projects & CLI tools**
-- 🌱 Deep-diving into **AI, Machine Learning & Data Science**
-- 💬 Ask me about **Python, scikit-learn, Streamlit**
-- ⚡ Fun fact: I believe every gap in a commit streak is just a plot twist 😄
+- 🔭 🤖 Teaching computers to think (they still argue with me)
+- 💬 Building with **LLMs, RAG, FastAPI, Ollama & AI Agents**
+- 💡 Ctrl+C, Ctrl+V... then spend 2 hours debugging 😄
+- ⚡ Fun fact: I believe every gap in a commit streak is just a plot twist 
 
 <br clear="right" />
-
-<!-- Neon line divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ---
 
