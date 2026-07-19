@@ -1,6 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Santhosh Kumar
-======================================================================================================================================
-
 <!-- Animated Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:00BFFF&height=200&section=header&text=Hi%2C%20I'm%20Santhosh%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Building%20Cool%20Stuff&descAlignY=55&descSize=18" alt="header" />
