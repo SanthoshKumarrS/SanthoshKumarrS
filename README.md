@@ -108,9 +108,25 @@ Santhosh().say_hi()
 
 ## 📊 GitHub Stats
 
+<!-- Main stats + top languages (sigma mirror — the default github-readme-stats instance is often rate-limited) -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SanthoshKumarrS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=8A2BE2" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumarrS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanthoshKumarrS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=8A2BE2&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanthoshKumarrS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&langs_count=8" alt="Top Languages" />
+</p>
+
+<!-- Profile summary cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanthoshKumarrS&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanthoshKumarrS&theme=tokyonight" alt="Repos per Language" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanthoshKumarrS&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SanthoshKumarrS&theme=tokyonight" alt="Stats" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SanthoshKumarrS&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <!-- Streak Stats -->
@@ -138,7 +154,7 @@ Santhosh().say_hi()
       <h3 align="center">🚧 Accident Severity Classifier</h3>
       <p align="center">
         <a href="https://github.com/SanthoshKumarrS/Road-Traffic-Accident-Severity-Classification">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanthoshKumarrS&repo=Road-Traffic-Accident-Severity-Classification&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RTA project" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SanthoshKumarrS&repo=Road-Traffic-Accident-Severity-Classification&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RTA project" />
         </a>
       </p>
       <p align="center">ML pipeline on real-world accident data — EDA → SMOTE → tuned Random Forest (85% acc) → SHAP → Streamlit app</p>
@@ -147,7 +163,7 @@ Santhosh().say_hi()
       <h3 align="center">🪙 Coin-CLI</h3>
       <p align="center">
         <a href="https://github.com/SanthoshKumarrS/Claude-Code">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanthoshKumarrS&repo=Claude-Code&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Coin CLI" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SanthoshKumarrS&repo=Claude-Code&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Coin CLI" />
         </a>
       </p>
       <p align="center">Zero-dependency Node.js CLI showing live crypto prices from CoinGecko in a clean ASCII table</p>
