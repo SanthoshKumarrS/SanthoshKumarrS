@@ -1,45 +1,137 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Santhosh Kumar
 ======================================================================================================================================
 
-Machine Learning Enthusiast
----------------------------
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **Omdena's Mumbai chapter**
-- 🤝 &nbsp; Looking to collaborate on ML projects or hackathons? Ping me in [Gmail](mailto:santhoscheeku777@gmail.com) /  [Twitter](https://twitter.com/SanthoshKumarS_) / [LinkedIn](https://www.linkedin.com/in/santhosh-kumar-521034165/)
-- 🌱 &nbsp; I’m currently learning Deep Learning
-- 🖥️ &nbsp; See my portfolio at [Link Tree](http://linktr.ee/santhosh___kumar)
-- 🌍 &nbsp; I'm based in Tiruppur,India
-
-<a href="https://www.twitter.com/SanthoshKumarS_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/SanthoshKumarS_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a><a href="https://www.github.com/SanthoshKumarrS" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SanthoshKumarrS?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@SanthoshKumarS_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SanthoshKumarS_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santhosh-kumar-521034165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh-kumar-521034165" height="30" width="40" /></a>
-<a href="https://kaggle.com/santhossshhh13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="santhossshhh13" height="30" width="40" /></a>
-<a href="https://medium.com/@santhosh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@santhosh_" height="30" width="40" /></a>
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:00BFFF&height=200&section=header&text=Hi%2C%20I'm%20Santhosh%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Building%20Cool%20Stuff&descAlignY=55&descSize=18" alt="header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Animated Typing Intro -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+Currently+Learning+AI+%26+ML;%F0%9F%9A%80+Building+Cool+Stuff+Every+Day;%F0%9F%92%BC+Open+to+Opportunities;%E2%9A%A1+Turning+Ideas+into+Code" alt="Typing SVG" />
+  </a>
+</p>
 
-### Badges
+<!-- Profile Views + Socials -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanthoshKumarrS&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+</p>
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+</p>
 
-<a href="http://www.github.com/SanthoshKumarrS"><img src="https://github-readme-stats.vercel.app/api?username=SanthoshKumarrS&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="18SanthossshhH's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/SanthoshKumarrS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshKumarrS&stroke=3382ed&background=000000&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+## 🧑‍💻 About Me
 
-<a href="http://www.github.com/SanthoshKumarrS"><img src="https://activity-graph.herokuapp.com/graph?username=SanthoshKumarrS&bg_color=000000&color=3382ed&line=3382ed&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+```python
+class Santhosh:
+    def __init__(self):
+        self.role       = "AI/ML Enthusiast 🤖"
+        self.learning   = ["Machine Learning", "Deep Learning", "LLMs", "MLOps"]
+        self.building   = "Cool stuff, one commit at a time 🚀"
+        self.status     = "Open to opportunities 💼"
 
-<a href="https://github.com/SanthoshKumarrS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumarrS&langs_count=10&title_color=f97316&text_color=3382ed&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something together!")
+
+Santhosh().say_hi()
+```
+
+- 🔭 Currently working on **ML projects & CLI tools**
+- 🌱 Deep-diving into **AI, Machine Learning & Data Science**
+- 💬 Ask me about **Python, scikit-learn, Streamlit**
+- ⚡ Fun fact: I believe every gap in a commit streak is just a plot twist 😄
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,git,github,vscode,sklearn,tensorflow,pytorch,mongodb,mysql,html,css,linux,bash&theme=dark&perline=8" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-4B0082?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SanthoshKumarrS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=8A2BE2" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumarrS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF" alt="Top Languages" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SanthoshKumarrS&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumarrS&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=8A2BE2&point=FFFFFF" alt="Activity Graph" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SanthoshKumarrS&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚧 Accident Severity Classifier</h3>
+      <p align="center">
+        <a href="https://github.com/SanthoshKumarrS/Road-Traffic-Accident-Severity-Classification">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanthoshKumarrS&repo=Road-Traffic-Accident-Severity-Classification&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RTA project" />
+        </a>
+      </p>
+      <p align="center">ML pipeline on real-world accident data — EDA → SMOTE → tuned Random Forest (85% acc) → SHAP → Streamlit app</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🪙 Coin-CLI</h3>
+      <p align="center">
+        <a href="https://github.com/SanthoshKumarrS/Claude-Code">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanthoshKumarrS&repo=Claude-Code&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Coin CLI" />
+        </a>
+      </p>
+      <p align="center">Zero-dependency Node.js CLI showing live crypto prices from CoinGecko in a clean ASCII table</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanthoshKumarrS/SanthoshKumarrS/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/SanthoshKumarrS/SanthoshKumarrS/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  </picture>
+</p>
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:4B0082,100:8A2BE2&height=120&section=footer" alt="footer" />
+</p>
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/SanthoshKumarrS">SanthoshKumarrS</a> — let's connect and build something amazing!</i>
+</p>
