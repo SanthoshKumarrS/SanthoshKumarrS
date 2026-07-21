@@ -190,5 +190,5 @@ Santhosh().say_hi()
 </p>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/SanthoshKumarrS">SanthoshKumarrS</a> — let's connect and build something amazing!</i>
+  <i>⭐ From <a href="https://github.com/SanthoshKumarrS">SanthoshKumarrS</a> — let's connect & build something amazing!</i>
 </p>
