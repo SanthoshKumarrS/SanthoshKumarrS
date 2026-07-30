@@ -113,35 +113,9 @@ Santhosh().say_hi()
 
 ## 📊 GitHub Stats
 
-<!-- Main stats + top languages (sigma mirror — the default github-readme-stats instance is often rate-limited) -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanthoshKumarrS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=8A2BE2&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanthoshKumarrS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&langs_count=8" alt="Top Languages" />
-</p>
-
-<!-- Profile summary cards -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanthoshKumarrS&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanthoshKumarrS&theme=tokyonight" alt="Top Languages by Commit" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SanthoshKumarrS&theme=tokyonight&utcOffset=5.5" alt="Commits by Time of Day (UTC +5.30)" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SanthoshKumarrS&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumarrS&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=8A2BE2&point=FFFFFF" alt="Activity Graph" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanthoshKumarrS&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 ---
@@ -173,12 +147,15 @@ Santhosh().say_hi()
 
 ---
 
-## 🐍 Contribution Snake
+## 🏙️ Contribution City
+
+> Every week I commit, a tower goes up — **one lit floor per contribution.**
+> Quiet weeks stay as empty lots. The skyline rebuilds itself every night.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanthoshKumarrS/SanthoshKumarrS/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/SanthoshKumarrS/SanthoshKumarrS/output/github-contribution-grid-snake.svg" alt="snake animation" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanthoshKumarrS/SanthoshKumarrS/output/contribution-city-light.svg" />
+    <img src="https://raw.githubusercontent.com/SanthoshKumarrS/SanthoshKumarrS/output/contribution-city.svg" alt="My GitHub contributions rendered as an animated city skyline — one tower per week, one lit floor per contribution" width="100%" />
   </picture>
 </p>
 
