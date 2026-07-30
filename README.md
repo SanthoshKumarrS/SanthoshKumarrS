@@ -160,12 +160,3 @@ Santhosh().say_hi()
 </p>
 
 ---
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:4B0082,100:8A2BE2&height=120&section=footer" alt="footer" />
-</p>
-
-<p align="center">
-  <i>⭐ From <a href="https://github.com/SanthoshKumarrS">SanthoshKumarrS</a> — let's connect & build something amazing!</i>
-</p>
