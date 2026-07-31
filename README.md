@@ -82,11 +82,10 @@ Santhosh().say_hi()
 ---
 
 <p align="center">
-  <a href="https://github.com/realfishsam">
-    <img src="./profile-green-animate.svg" alt="3D contributions" />
+  <a href="https://github.com/SanthoshKumarrS">
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contributions" />
   </a>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
