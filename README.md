@@ -146,17 +146,3 @@ Santhosh().say_hi()
 </table>
 
 ---
-
-## 🏙️ Contribution City
-
-> Every week I commit, a tower goes up — **one lit floor per contribution.**
-> Quiet weeks stay as empty lots. The skyline rebuilds itself every night.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanthoshKumarrS/SanthoshKumarrS/output/contribution-city-light.svg" />
-    <img src="https://raw.githubusercontent.com/SanthoshKumarrS/SanthoshKumarrS/output/contribution-city.svg" alt="My GitHub contributions rendered as an animated city skyline — one tower per week, one lit floor per contribution" width="100%" />
-  </picture>
-</p>
-
----
