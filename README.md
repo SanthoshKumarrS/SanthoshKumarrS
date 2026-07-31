@@ -111,12 +111,15 @@ Santhosh().say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumarrS&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=8A2BE2&point=FFFFFF" alt="Activity Graph" />
+  <a href="https://github.com/SanthoshKumarrS">
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contributions" />
+  </a>
 </p>
+
+<!-- STAR_COUNT_START -->
+<div align="center"><b>Total Stars Across Projects:</b> 0 ⭐</div>
+<!-- STAR_COUNT_END -->
 
 ---
 
@@ -146,3 +149,12 @@ Santhosh().say_hi()
 </table>
 
 ---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:4B0082,100:8A2BE2&height=120&section=footer" alt="footer" />
+</p>
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/SanthoshKumarrS">SanthoshKumarrS</a> — let's connect & build something amazing!</i>
+</p>
