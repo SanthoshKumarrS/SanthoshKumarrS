@@ -35,14 +35,14 @@
 ```python
 class Santhosh:
     def __init__(self):
-        self.role       = "AI/ML Enthusiast 🤖"
-        self.learning   = ["Machine Learning", "Deep Learning",
-                                               "LLMs", "MLOps"]
-        self.building   = "Cool stuff, one commit at a time 🚀"
-        self.status     = "Open to opportunities 💼"
+        self.role = "AI/ML Enthusiast 🤖"
+        self.learning = ["Machine Learning", "Deep Learning", "LLMs", "MLOps"]
+        self.building = "Cool stuff, one commit at a time 🚀"
+        self.status = "Open to opportunities 💼"
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something together!")
+
 
 Santhosh().say_hi()
 ```
@@ -82,14 +82,10 @@ Santhosh().say_hi()
 ---
 
 <p align="center">
-  <a href="https://github.com/SanthoshKumarrS">
-    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contributions" />
+  <a href="https://github.com/realfishsam">
+    <img src="./profile-gitblog.svg" alt="3D contributions" />
   </a>
 </p>
-
-<!-- STAR_COUNT_START -->
-<div align="center"><b>Total Stars Across Projects:</b> 0 ⭐</div>
-<!-- STAR_COUNT_END -->
 
 ---
 
