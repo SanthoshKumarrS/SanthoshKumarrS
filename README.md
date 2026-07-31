@@ -87,10 +87,6 @@ Santhosh().say_hi()
   </a>
 </p>
 
-<!-- STAR_COUNT_START -->
-<div align="center"><b>Total Stars Across Projects:</b> 0 ⭐</div>
-<!-- STAR_COUNT_END -->
-
 ---
 
 ## 🚀 Featured Projects
