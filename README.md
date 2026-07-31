@@ -111,12 +111,15 @@ Santhosh().say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumarrS&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=8A2BE2&point=FFFFFF" alt="Activity Graph" />
+  <a href="https://github.com/SanthoshKumarrS">
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contributions" />
+  </a>
 </p>
+
+<!-- STAR_COUNT_START -->
+<div align="center"><b>Total Stars Across Projects:</b> 0 ⭐</div>
+<!-- STAR_COUNT_END -->
 
 ---
 
@@ -144,20 +147,6 @@ Santhosh().say_hi()
     </td>
   </tr>
 </table>
-
----
-
-## 🏙️ Contribution City
-
-> Every week I commit, a tower goes up — **one lit floor per contribution.**
-> Quiet weeks stay as empty lots. The skyline rebuilds itself every night.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanthoshKumarrS/SanthoshKumarrS/output/contribution-city-light.svg" />
-    <img src="https://raw.githubusercontent.com/SanthoshKumarrS/SanthoshKumarrS/output/contribution-city.svg" alt="My GitHub contributions rendered as an animated city skyline — one tower per week, one lit floor per contribution" width="100%" />
-  </picture>
-</p>
 
 ---
 
