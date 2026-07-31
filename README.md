@@ -83,7 +83,7 @@ Santhosh().say_hi()
 
 <p align="center">
   <a href="https://github.com/realfishsam">
-    <img src="./profile-gitblog.svg" alt="3D contributions" />
+    <img src="./profile-green-animate.svg" alt="3D contributions" />
   </a>
 </p>
 
