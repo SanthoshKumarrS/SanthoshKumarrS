@@ -58,57 +58,27 @@ Santhosh().say_hi()
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI / ML & Deep Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=8" alt="AI/ML Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,pytorch,tensorflow,opencv,docker,kubernetes,aws,git,github,vscode,linux&theme=dark&perline=8" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-### ⚙️ MLOps & Deployment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark&perline=8" alt="MLOps Stack" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
   <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
-
-### 🌐 Web & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github,vscode,linux&theme=dark&perline=8" alt="Web Stack" />
-</p>
-
-### 🧠 Topics I Work With
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Langfuse-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Guardrails-2ECC71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fine--tuning-E67E22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-16A085?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-34495E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-C0392B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-2980B9?style=for-the-badge" />
-</p>
-
 ---
 
 <p align="center">
