@@ -79,36 +79,67 @@ Santhosh().say_hi()
   <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
   <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
 </p>
+
 ---
 
+## 📊 GitHub Stats
+
+<!-- Every card below is keyed to username=SanthoshKumarrS, so they render this
+     account only. hide=stars drops the "Total Stars Earned" row. -->
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanthoshKumarrS&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=8A2BE2&text_color=c9d1d9" alt="Commits, pull requests, issues and contributions" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanthoshKumarrS&layout=donut&langs_count=6&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=c9d1d9" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumarrS&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=8A2BE2&point=FFFFFF&area=true" alt="Contribution activity graph" />
+</p>
+
+<!-- Regenerated daily by .github/workflows/profile-3d.yml from this account's
+     own contribution calendar. -->
 <p align="center">
   <a href="https://github.com/SanthoshKumarrS">
     <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contributions" />
   </a>
 </p>
+
 ---
 
 ## 🚀 Featured Projects
 
+<!-- Plain cards rather than repo pins: pin cards always render a star and fork
+     count, which is exactly what we don't want on display here. -->
+
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🚧 Accident Severity Classifier</h3>
       <p align="center">
         <a href="https://github.com/SanthoshKumarrS/Road-Traffic-Accident-Severity-Classification">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SanthoshKumarrS&repo=Road-Traffic-Accident-Severity-Classification&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RTA project" />
+          <img src="https://img.shields.io/badge/Open%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Accident Severity Classifier repository" />
         </a>
       </p>
       <p align="center">ML pipeline on real-world accident data — EDA → SMOTE → tuned Random Forest (85% acc) → SHAP → Streamlit app</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🪙 Coin-CLI</h3>
       <p align="center">
         <a href="https://github.com/SanthoshKumarrS/Claude-Code">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SanthoshKumarrS&repo=Claude-Code&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Coin CLI" />
+          <img src="https://img.shields.io/badge/Open%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Coin-CLI repository" />
         </a>
       </p>
       <p align="center">Zero-dependency Node.js CLI showing live crypto prices from CoinGecko in a clean ASCII table</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CoinGecko%20API-8DC63F?style=flat-square&logo=coingecko&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
