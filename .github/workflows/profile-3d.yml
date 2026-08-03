@@ -1,7 +1,4 @@
-name: 3D Contribution Graph
-
-# NOTE: this file must live in .github/workflows/ — GitHub ignores workflows
-# placed directly in .github/, which is why the graph never refreshed before.
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
@@ -20,22 +17,20 @@ jobs:
     name: generate-3d-contrib
     steps:
       - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-
-      # GH_USER is derived from the repo owner, so the graph can only ever
-      # render this account's calendar.
-      - name: Render contribution skyline
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GH_USER: ${{ github.repository_owner }}
-        run: node scripts/generate-3d-contrib.mjs
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & push
+      # The action always draws a star total and a fork total in the footer and
+      # has no setting to suppress them, so they get removed after generation.
+      - name: Remove star & fork counts
+        run: node scripts/strip-stars-forks.mjs
+
+      - name: Commit & Push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A profile-3d-contrib
-          git diff --cached --quiet || git commit -m "chore: refresh 3d contribution graph"
+          git diff --cached --quiet || git commit -m "chore: update 3d contrib"
           git push
