@@ -92,16 +92,10 @@ Santhosh().say_hi()
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanthoshKumarrS&layout=donut&langs_count=6&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=c9d1d9" alt="Most used languages" />
 </p>
 
+<!-- days=31 is required: without it this endpoint returns a "Can't fetch any
+     contribution" error card instead of a chart. -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumarrS&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=8A2BE2&point=FFFFFF&area=true" alt="Contribution activity graph" />
-</p>
-
-<!-- Regenerated daily by .github/workflows/profile-3d.yml from this account's
-     own contribution calendar. -->
-<p align="center">
-  <a href="https://github.com/SanthoshKumarrS">
-    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contributions" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumarrS&days=31&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=8A2BE2&point=FFFFFF&area=true&custom_title=Contributions%20This%20Month" alt="Contributions over the last month" />
 </p>
 
 ---
